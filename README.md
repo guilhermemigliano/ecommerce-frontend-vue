@@ -9,5 +9,5 @@ usuário.
 
 ## Como rodar o projeto
 
-1 - Digitar no terminal para instalação dos pacotes: npm install 
-2 - Digitar no terminal: npm run serve
+- Digitar no terminal para instalação dos pacotes: npm install 
+- Digitar no terminal: npm run serve
